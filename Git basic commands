@@ -1,0 +1,12 @@
+git init = initalise git
+git add = ajoute file to stagged area
+git commit = engage le file avec ses changements
+git push -u origin main = ajoute le fichier à la branche principale
+git push = ajoute le contenu d'un dépôt local vers un dépôt distant
+git remote add origin = url push/fetch = créer des connexions avec des dépôts
+git remote -v = affiche les urls
+git fetch = télécharge des fichiers d'un dépôt distant vers dépôt local sans toucher aux autres fichiers
+git branch = afficher les branches
+git log = afficher l'historique des fichiers (type q to exit)
+git pull = git fetch + git merge
+
